@@ -7,6 +7,6 @@ public class Runner {
         System.out.println("version 3");
 
         //yeni branch icinde yaptiklarim
-        System.out.println(***************remote repoda degisiklik);
+        System.out.println(***************remote repoda degisiklik********************);
     }
 }

@@ -6,7 +6,8 @@ public class Runner {
 
         System.out.println("version 3");
 
-        //yeni branch icinde yaptiklarim
-        System.out.println("localde degisiklik***********");
+        //yeni branch icinde yaptiklari
+        System.out.println("***************remote repoda degisiklik********************");
+
     }
 }

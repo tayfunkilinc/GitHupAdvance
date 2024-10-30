@@ -8,6 +8,19 @@ public class Runner {
 
         //yeni branch icinde yaptiklari
         System.out.println("***************remote repoda degisiklik********************");
+        System.out.println("***************son remote degisiklik*******************");
+
+
+
+
+
+
+
+
+
+
+
+        //dev 2 nin degisikligi
 
     }
 }

@@ -11,5 +11,9 @@ public class Runner {
 
         //test
         System.out.println("test");
+
+        //test2
+        System.out.println("test2");
+        System.out.println("test2*******");
     }
 }

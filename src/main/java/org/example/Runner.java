@@ -22,5 +22,17 @@ public class Runner {
 
         //dev 2 nin degisikligi
 
+        //yeni branch icinde yaptiklarim
+        System.out.println();
+
+        //test
+        System.out.println("test");
+
+        //test2
+        System.out.println("test2");
+        System.out.println("test2*******");
+
+
+        System.out.println("degisiklik dev 2");
     }
 }

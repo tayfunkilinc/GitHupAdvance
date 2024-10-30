@@ -8,5 +8,8 @@ public class Runner {
 
         //yeni branch icinde yaptiklarim
         System.out.println();
+
+        //test
+        System.out.println("test");
     }
 }
